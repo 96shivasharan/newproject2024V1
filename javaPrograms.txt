@@ -1,0 +1,36 @@
+
+
+
+Reverse String
+----------------------------------------------
+public class ReverseString{
+
+String name="Shiva";
+String name2="";
+
+for(int i=0;i<name.length()-1;i++)
+{
+	chr c=name.charAt(i);
+	name2=c+name2;
+
+}
+Sytem.out.println(name2);
+
+}
+---------------------------------------------------
+Find Owels in String
+-------------------------------------------------
+public class String{
+
+String name=Automation;
+boolean owels=false;
+
+for(int i=0;i<name.length();i++)
+{
+  if(Char c=name.charAt(i)=='a'||c=name.charAt(i)=='e'||c=name.charAt(i)=='i'||c=name.charAt(i)=='o'||c=name.charAt(i)=='u')
+  {
+      System.out.println("Present");
+  }
+}
+}
+
