@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/ci-environment-10.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/cucumber-core-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/cucumber-expressions-17.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/cucumber-gherkin-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/cucumber-gherkin-messages-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/cucumber-junit-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/cucumber-plugin-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/datatable-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/docstring-7.14.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/gherkin-26.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/html-formatter-20.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/junit-xml-formatter-0.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/messages-22.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/BDDPractices/src/test/java/Jars/tag-expressions-6.0.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
